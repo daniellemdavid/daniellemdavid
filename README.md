@@ -3,7 +3,7 @@ I'm Danielle David aka ellechaotech and I am a baby software engineer with found
 I'm very interested in working with projects that make the web more accessible for the disabled, or
 projects that use computer vision but I am open to anything that will allow me to learn more. 
 
-My website is DanielleDavid.com and my blog is elle0elle.dev (with a zero between the two elles).
+My website: DanielleDavid.com
   
   
 <!--
